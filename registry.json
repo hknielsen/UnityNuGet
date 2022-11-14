@@ -409,6 +409,10 @@
     "listed": true,
     "version": "1.0.0"
   },
+  "Microsoft.Build": {
+    "listed": true,
+    "version": "17.4.0"
+  },
   "Microsoft.CodeAnalysis.BannedApiAnalyzers": {
     "listed": true,
     "version": "2.9.0",
